@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prebuild": "node prebuild.js",
+    "prebuild": "node prebuild.ts",
     "start": "next start",
     "lint": "next lint"
   },
