@@ -16,7 +16,7 @@ const Footer = () => (
         /> */}
         TEAM TAKA
         <p className="text-base text-gray-700">
-          Carhub 2023 <br />
+          Team Taka 2023 <br />
           All Rights Reserved &copy;
         </p>
       </div>
@@ -45,7 +45,7 @@ const Footer = () => (
     </div>
 
     <div className="flex justify-between items-center flex-wrap mt-10 border-t border-gray-100 sm:px-16 px-6 py-10">
-      <p>@2023 CarHub. All rights reserved</p>
+      <p>@2023 Team Taka. All rights reserved</p>
 
       <div className="flex-1 flex sm:justify-end justify-center max-sm:mt-4 gap-10">
         <Link href="/" className="text-gray-500">
