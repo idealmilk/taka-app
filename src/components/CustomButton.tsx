@@ -16,7 +16,7 @@ const CustomButton = ({
   <button
     disabled={isDisabled}
     type={btnType || "button"}
-    className={`flex flex-row relative justify-center items-center py-3 px-6 outline-none ${containerStyles}`}
+    className={`primary-btn ${containerStyles}`}
     onClick={handleClick}
   >
     <span className={`flex-1 ${textStyles}`}>{children}</span>

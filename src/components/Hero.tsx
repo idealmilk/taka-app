@@ -25,7 +25,7 @@ const Hero = () => {
         </p>
 
         <CustomButton
-          containerStyles="bg-hot-pink text-white rounded-full mt-10"
+          containerStyles="primary-btn  mt-10"
           handleClick={handleScroll}
         >
           <span>Come on G</span>
