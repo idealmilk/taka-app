@@ -21,7 +21,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-[27px] text-black-100 font-light mt-5">
-          Streamline your analyircs with our effortless bando checker.
+          Streamline your analytics with our effortless bando checker.
         </p>
 
         <CustomButton
